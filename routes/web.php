@@ -27,4 +27,3 @@ Route::get('/invoice',[EmployeeController::class, 'index'])->name('invoice');
 
 // Export PDF
 Route::get('/exportpdf',[EmployeeController::class, 'exportpdf'])->name('exportpdf');
-
