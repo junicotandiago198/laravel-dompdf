@@ -22,7 +22,7 @@ class EmployeeController extends Controller
         $data = Employee::all();
 
         view()->share('data', $data);
-        $pdf = PDF::loadView('invoice-pdf');
+        $pdf = PDF::loadView('invoice/invoice-pdf');
         return $pdf->download('data.pdf');
     }
 }
