@@ -46,10 +46,10 @@
     </table>
     
   <div class="footer">
-    <p>Thank you and Best Wishes</p>
+    <p>Terimakasih dan Salam Sejahtera</p>
     <div class="terms">
-          <p class="tc bold">Terms & Coditions</p>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit non praesentium doloribus. Quaerat vero iure itaque odio numquam, debitis illo quasi consequuntur velit, explicabo esse nesciunt error aliquid quis eius!</p>
+          <p class="tc bold">Dinas Pendidikan dan Kebudayaan Muara Enim</p>
+          <p>(Mediacenterdisdikbud.me)</p>
       </div>
   </div>
 </div>
